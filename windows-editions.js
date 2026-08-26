@@ -1,4 +1,4 @@
-// windows-iso-editions
+// Windows Back Catalog
 // Paste into the DevTools console on https://www.microsoft.com/en-us/software-download/windows11
 // and the edition dropdown gains every Windows release below instead of just the current one.
 (() => {
